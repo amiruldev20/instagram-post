@@ -9,7 +9,7 @@
 - Save Link Post
 - Custom Caption (By Input)
 - Random Pict (By Input Path)
-> please contact [My WhatsApp](https://wa.me/6285157489446) if interested
+> please contact [My Telegram](https://t.me/amiruldev20) if interested
 
 # Demo Tools
 <img src="post1.jpg">
